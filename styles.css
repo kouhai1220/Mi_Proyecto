@@ -898,6 +898,9 @@ section.visible {
     .social-sidebar {
         display: none;
     }
+    .social-sidebar-mobile {
+        display: block;
+    }
     .main-nav {
         padding: 0 25px;
         height: 70px;
